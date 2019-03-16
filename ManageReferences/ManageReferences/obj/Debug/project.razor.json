@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Code\\School\\CS1182\\ManageReferences-20190316T043312Z-001\\ManageReferences\\ManageReferences\\ManageReferences.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

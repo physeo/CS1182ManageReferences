@@ -1,0 +1,12 @@
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\bin\Debug\ManageReferences.exe.config
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\obj\Debug\ManageReferences.csprojResolveAssemblyReference.cache
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\obj\Debug\ManageReferences.BookForm.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\obj\Debug\ManageReferences.ChapterForm.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\obj\Debug\ManageReferences.ManageReferencesForm.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\obj\Debug\ManageReferences.JournalForm.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\obj\Debug\ManageReferences.Properties.Resources.resources
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\obj\Debug\ManageReferences.csproj.GenerateResource.Cache
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\bin\Debug\ManageReferences.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\bin\Debug\ManageReferences.pdb
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\obj\Debug\ManageReferences.exe
+C:\Users\Bryce\Google Drive\School Stuff\College Fall 2014\CS 1182\Projects\ManageReferences\ManageReferences\obj\Debug\ManageReferences.pdb

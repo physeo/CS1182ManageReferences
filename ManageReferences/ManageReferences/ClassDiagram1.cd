@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ManageReferences.Book" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAICABADAgAAAIAAAAGAAAABABAAAA=</HashCode>
+      <FileName>Book.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageReferences.Chapter" Collapsed="true">
+    <Position X="4.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgIAAAIAAAAAAAAABABIAIAAAACgAAAAIAAgBAAAI=</HashCode>
+      <FileName>Chapter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageReferences.Date" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgmAAAAJAAAAAAQAAAAAAAAAAQAAAAESAAAIAABAAA=</HashCode>
+      <FileName>Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageReferences.Journal" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAICAAACIAAAACAABABAAAAAAAAgAAAAIAIgBAAAI=</HashCode>
+      <FileName>Journal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageReferences.Name" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEAAAABAMEQQAAAAAgEAAAABAAAAAAAACAAgAAg=</HashCode>
+      <FileName>Name.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ManageReferences.Reference" Collapsed="true">
+    <Position X="4" Y="0.75" Width="2.75" />
+    <AssociationLine Name="nameList" Type="ManageReferences.Name" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.75" Y="1" />
+        <Point X="8.75" Y="1" />
+        <Point X="8.75" Y="2.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.926" Y="0.082" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QAAIAAAAAAAAAGQAAAJCJCACAAAAECgAASAAQABAAAA=</HashCode>
+      <FileName>Reference.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="referenceTitle" />
+      <Field Name="referenceDate" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="nameList" />
+    </ShowAsCollectionAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ManageReferences.Title" Collapsed="true">
+    <Position X="0.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAgAIAAIABAAAAAAACAgAA=</HashCode>
+      <FileName>Title.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ManageReferences.ManageList">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ManageList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="ManageReferences.IformatReference">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABABAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>IformatReference.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
